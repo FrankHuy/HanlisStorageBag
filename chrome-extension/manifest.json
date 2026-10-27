@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "韩立的储物袋 · 追番助手",
+  "version": "0.1.0",
+  "description": "观看凡人修仙传时，点击查询当前剧集对应的物品考据记录。支持 B 站剧集自动识别、章节校准与本地离线查询。",
+  "minimum_chrome_version": "111",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://api.bilibili.com/*"
+  ],
+  "action": {
+    "default_title": "看看韩立的储物袋",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'self' https://api.bilibili.com; object-src 'none'; base-uri 'none'"
+  },
+  "homepage_url": "https://hanli.hym.cc.cd/"
+}

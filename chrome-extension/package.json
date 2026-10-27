@@ -1,0 +1,14 @@
+{
+  "name": "hanli-storage-bag-chrome",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "在 B 站观看凡人修仙传时，识别当前剧集并查询韩立的物品记录。",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check.mjs",
+    "build": "node scripts/build.mjs",
+    "sync:web": "node --experimental-strip-types scripts/sync-from-web.mjs"
+  }
+}

@@ -1,0 +1,103 @@
+:root {
+  --text-secondary: #495d45;
+  --text-muted: #58664f;
+  --text-positive: #38623c;
+  --text-negative: #85513d;
+  --muted: var(--text-muted);
+}
+
+/* Descriptive text keeps its hierarchy while reading clearly on the paper backgrounds. */
+.section-heading p,
+.chapter-banner p,
+.item-description > p,
+.change-card p,
+.research-intro p,
+.research-grid p,
+.method p,
+.modal-content > p,
+.item-history p,
+.coverage-summary p {
+  color: var(--text-secondary);
+}
+
+.brand small,
+.side-caption,
+.side-caption span,
+.arc-links button,
+.arc-links button span,
+.side-quote,
+.research-status,
+.side-bottom > p,
+.crumb,
+.edition,
+.header-right a,
+.stat-value small,
+.stat-label,
+.overview-note,
+.overview-note small,
+.eyebrow.dark,
+.search-box,
+.select-wrapper,
+.select-wrapper select,
+.event-chapter,
+.event-chapter > span,
+.event-summary,
+.timeline-foot,
+.place,
+.chapter-meta,
+.view-tabs button,
+.share-button,
+.category-tabs button,
+.inventory-subtitle,
+.inventory-subtitle select,
+.item-type,
+.item-count,
+.item-footer,
+.ledger-note,
+.ledger-note strong,
+.chapter-pagination button,
+.chapter-pagination > span > span,
+.empty,
+footer,
+.catalog-tools > label,
+.catalog-tools select,
+.research-grid article small,
+.pending,
+.method-links a,
+.modal-close,
+.item-history > div > span,
+.item-history a,
+.modal-note,
+.coverage-summary,
+.coverage-shortcuts > span,
+.coverage-shortcuts button small {
+  color: var(--text-muted);
+}
+
+.search-box input::placeholder {
+  color: var(--text-muted);
+  opacity: 1;
+}
+
+.chosen .event-chapter,
+.gain-text {
+  color: var(--text-positive);
+}
+
+.loss-text {
+  color: var(--text-negative);
+}
+
+.item-footer .new-item,
+.coverage-shortcuts button {
+  color: #46633b;
+}
+
+.damaged-tag {
+  color: #7a4d24;
+}
+
+/* Keep source access visible on narrow screens. */
+.header-right .github-link { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+@media (max-width: 600px) { .header-right { gap: 12px; } .topbar { gap: 10px; } .topbar .crumb { display: none; } }
+@media (max-width: 380px) { .github-link span { display: none; } }

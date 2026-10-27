@@ -1,0 +1,15 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {createRequire} from 'node:module';
+import {fileURLToPath} from 'node:url';
+const project=new URL('../',import.meta.url);
+const parent=new URL('../../',import.meta.url);
+const {events}=await import(new URL('src/data/events.ts',parent));
+const {items}=await import(new URL('src/data/items.ts',parent));
+const require=createRequire(new URL('package.json',parent));
+const ts=require('typescript');
+await mkdir(new URL('data/',project),{recursive:true});
+await mkdir(new URL('src/lib/',project),{recursive:true});
+const engine=ts.transpileModule(await readFile(new URL('src/lib/inventory.ts',parent),'utf8'),{compilerOptions:{target:ts.ScriptTarget.ES2022,module:ts.ModuleKind.ESNext}}).outputText;
+await writeFile(new URL('src/lib/inventory.mjs',project),'// Synced from HanlisStorageBag/src/lib/inventory.ts. Update with npm run sync:web.\n'+engine);
+await writeFile(new URL('data/inventory.json',project),JSON.stringify({schemaVersion:1,updatedAt:new Date().toISOString().slice(0,10),source:'https://hanli.hym.cc.cd/',coverage:'关键节点考据，非逐章完整库存',items,events},null,2)+'\n');
+console.log(`Synced ${events.length} events and ${items.length} items to ${fileURLToPath(project)}`);

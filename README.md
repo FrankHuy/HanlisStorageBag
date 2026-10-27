@@ -4,6 +4,12 @@
 
 在线访问：[韩立的储物袋](https://hanli.hym.cc.cd)。已部署至 Cloudflare Workers Static Assets，并绑定自定义域名。备用地址：[workers.dev](https://hanlis-storage-bag.879647324.workers.dev)（部分网络可能无法直连）。
 
+## 衍生项目：Chrome 追番助手
+
+独立插件项目位于 [`chrome-extension/`](chrome-extension/README.md)，支持在 B 站播放《凡人修仙传》时点击插件识别当前正片集数，查看对应小说进度的物品记录。复用本项目数据快照，单独构建无需第三方依赖。随包含第1—197集的第三方参考映射；新集可动态识别，但未收录的章节范围需手动校准。
+
+[下载安装包](https://hanli.hym.cc.cd/downloads/hanli-storage-bag-chrome-v0.1.0.zip) · [下载独立源码](https://hanli.hym.cc.cd/downloads/hanli-storage-bag-chrome-source-v0.1.0.zip)。解压安装包后，在 `chrome://extensions` 开启开发者模式，选择「加载已解压的扩展程序」。
+
 ## 当前进度
 
 - React + TypeScript + Vite 项目，墨青 / 竹绿 / 旧金配色，山峦与器物 SVG 原创线描。
@@ -64,6 +70,8 @@ Cloudflare 控制台连接此 Git 仓库时，构建命令为 `npm run build`，
 凭证仅存放在 GitHub Secrets / Wrangler 本机登录中，不提交到仓库。仓库不包含账户绑定信息。静态资源安全响应头在 `public/_headers` 中配置。
 
 ## 内容维护
+
+Chrome 插件的商店发布步骤、权限理由和商品文案见 [上架说明](chrome-extension/STORE_PUBLISHING.md)，[隐私政策](https://hanli.hym.cc.cd/extension/privacy.html) 随网站静态托管。
 
 ```text
 src/data/types.ts        数据模型

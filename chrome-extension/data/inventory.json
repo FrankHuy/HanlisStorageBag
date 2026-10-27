@@ -1,0 +1,1747 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-27",
+  "source": "https://hanli.hym.cc.cd/",
+  "coverage": "关键节点考据，非逐章完整库存",
+  "items": [
+    {
+      "id": "gold-brick",
+      "name": "金光砖符宝",
+      "category": "符箓典籍",
+      "icon": "token",
+      "description": "万宝楼购得的崭新符宝，符面绘有一块金色长砖。"
+    },
+    {
+      "id": "bottle",
+      "name": "神秘小瓶",
+      "category": "令牌杂物",
+      "icon": "bottle",
+      "description": "少年时意外拾得的绿瓶。此时尚未知晓它的真正来历，贴身收藏。"
+    },
+    {
+      "id": "sword-talisman",
+      "name": "小剑符宝",
+      "category": "符箓典籍",
+      "icon": "sword",
+      "description": "从金光上人手中夺得，符面绘有小剑。"
+    },
+    {
+      "id": "diamond-talisman",
+      "name": "金刚符",
+      "category": "符箓典籍",
+      "icon": "shield",
+      "description": "金光上人遗物；防御用灵符，后来在太南谷辨明名称。"
+    },
+    {
+      "id": "ascension",
+      "name": "升仙令",
+      "category": "令牌杂物",
+      "icon": "token",
+      "description": "漆黑三角令牌，后来成为进入黄枫谷的凭证。"
+    },
+    {
+      "id": "genealogy",
+      "name": "秦氏族谱",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "金光上人灰烬中留下的族谱，后续去向需要继续考据。"
+    },
+    {
+      "id": "pen",
+      "name": "金竺笔",
+      "category": "令牌杂物",
+      "icon": "pen",
+      "description": "以金睛猿颈毛、金精与乌铁制成的符笔，以丹药换得。"
+    },
+    {
+      "id": "seeds",
+      "name": "七星草种子",
+      "category": "灵药材料",
+      "icon": "herb",
+      "description": "七星草可用于制作符纸，购得时装在一个小布袋中。"
+    },
+    {
+      "id": "flight",
+      "name": "飞行符",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "用于交换法宝残片的高阶灵符；首版仅登记该次付出。"
+    },
+    {
+      "id": "fragment",
+      "name": "法宝残片",
+      "category": "法器法宝",
+      "icon": "scroll",
+      "description": "能遮蔽物体、又不妨碍吸入灵气的布状残片。"
+    },
+    {
+      "id": "blades",
+      "name": "金蚨子母刃",
+      "category": "法器法宝",
+      "icon": "sword",
+      "description": "一把母刃与八把子刃，可配合操控攻击。"
+    },
+    {
+      "id": "shield",
+      "name": "玄铁飞天盾",
+      "category": "法器法宝",
+      "icon": "shield",
+      "description": "可自动环绕护身的防御法器。"
+    },
+    {
+      "id": "thunder",
+      "name": "天雷子",
+      "category": "法器法宝",
+      "icon": "orb",
+      "description": "一次性雷珠，血禁试炼中用于击杀封岳。"
+    },
+    {
+      "id": "hook",
+      "name": "银钩",
+      "category": "法器法宝",
+      "icon": "sword",
+      "description": "第190章回顾与封岳一战时确认损失，具体获得节点待补。"
+    },
+    {
+      "id": "rope",
+      "name": "青索",
+      "category": "法器法宝",
+      "icon": "array",
+      "description": "第190章明确提及已损失的上品法器，具体获得节点待补。"
+    },
+    {
+      "id": "mirror",
+      "name": "小镜法器",
+      "category": "法器法宝",
+      "icon": "orb",
+      "description": "战后捡起的多宝女遗物，具体名称待考。"
+    },
+    {
+      "id": "crystal",
+      "name": "水晶球",
+      "category": "法器法宝",
+      "icon": "orb",
+      "description": "血禁试炼中战后捡起的物品。"
+    },
+    {
+      "id": "knife-talisman",
+      "name": "小刀符宝",
+      "category": "符箓典籍",
+      "icon": "sword",
+      "description": "原主人死后恢复符箓形态，被韩立捡起。"
+    },
+    {
+      "id": "boots",
+      "name": "乌靴",
+      "category": "法器法宝",
+      "icon": "boots",
+      "description": "封岳留下的乌黑靴子，火弹术烧灼后仍完好，具加速作用。"
+    },
+    {
+      "id": "formation",
+      "name": "颠倒五行阵器具",
+      "category": "法器法宝",
+      "icon": "array",
+      "description": "齐云霄所制的残缺布阵器具，初时只能发挥部分阵法威力。"
+    },
+    {
+      "id": "craft-notes",
+      "name": "炼器心得",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "与齐云霄交易时一并得到的炼器心得。"
+    },
+    {
+      "id": "teleport",
+      "name": "大挪移令",
+      "category": "令牌杂物",
+      "icon": "token",
+      "description": "古传送阵旁获得的蓝色古令，明确收入储物袋。"
+    },
+    {
+      "id": "spider-eggs",
+      "name": "血玉蜘蛛卵",
+      "category": "灵兽灵虫",
+      "icon": "beast",
+      "description": "洞穴石柱后发现的两枚蜘蛛卵，被收入专用灵兽皮袋。"
+    },
+    {
+      "id": "beads",
+      "name": "五彩小珠",
+      "category": "灵药材料",
+      "icon": "orb",
+      "description": "五色骸骨被焚烧后凝出的七八颗珠子，确切数量不明。"
+    },
+    {
+      "id": "bamboo-swords",
+      "name": "青竹蜂云剑",
+      "category": "法器法宝",
+      "icon": "sword",
+      "description": "以天雷竹炼成的一套七十二口本命飞剑，炼成后吸入体内温养。"
+    },
+    {
+      "id": "ding",
+      "name": "虚天鼎",
+      "category": "法器法宝",
+      "icon": "ding",
+      "description": "乱星海秘宝；第491章成功缩小到掌中，此刻尚未记录入袋。"
+    },
+    {
+      "id": "spiders",
+      "name": "血玉蜘蛛",
+      "category": "灵兽灵虫",
+      "icon": "beast",
+      "description": "由两枚蜘蛛卵孵化的灵兽；幼体与卵分开记录，后续数量以最近一次确认为准。"
+    },
+    {
+      "id": "gold-bugs",
+      "name": "噬金虫群",
+      "category": "灵兽灵虫",
+      "icon": "beast",
+      "description": "借血玉蜘蛛捕获的奇虫，后续经历繁育、伤亡和变异；不将历代数量简单相加。"
+    },
+    {
+      "id": "soul-beast",
+      "name": "啼魂兽",
+      "category": "灵兽灵虫",
+      "icon": "beast",
+      "description": "元瑶为换取熔岩路上的庇护交付的异兽，能够吞噬魂魄。"
+    },
+    {
+      "id": "soul-pearl",
+      "name": "鸣魂珠",
+      "category": "法器法宝",
+      "icon": "orb",
+      "description": "控制啼魂兽的珠子；交付与真正炼化是不同节点。"
+    },
+    {
+      "id": "blue-pearl",
+      "name": "乾蓝珠",
+      "category": "法器法宝",
+      "icon": "orb",
+      "description": "乾蓝冰焰凝聚的珠子，以辟邪神雷封住后装进玉匣。"
+    },
+    {
+      "id": "rib",
+      "name": "玄骨肋骨",
+      "category": "令牌杂物",
+      "icon": "token",
+      "description": "玄骨遗留、未被火焰烧毁的一截肋骨，韩立怀疑内藏物品并收入袋中。"
+    },
+    {
+      "id": "milk",
+      "name": "万年灵乳",
+      "category": "灵药材料",
+      "icon": "bottle",
+      "description": "可快速恢复法力的灵液；交易、饮用与余量需要分别记录。"
+    },
+    {
+      "id": "soul-wood",
+      "name": "养魂木根部",
+      "category": "灵药材料",
+      "icon": "herb",
+      "description": "虚天殿与元瑶协商分取的养魂木根部，不是元瑶取走的主干。"
+    },
+    {
+      "id": "wind-wings",
+      "name": "风雷翅",
+      "category": "法器法宝",
+      "icon": "herb",
+      "description": "从风希炼器室夺得，后由辟邪神雷定形；本体可收入丹田。"
+    },
+    {
+      "id": "dragon-soul",
+      "name": "八级毒蛟精魂",
+      "category": "灵药材料",
+      "icon": "bottle",
+      "description": "噬蛟之战中捕获并封存于玉瓶，不能混同于毒蛟内丹。"
+    },
+    {
+      "id": "demon-bags",
+      "name": "妖修储物袋",
+      "category": "令牌杂物",
+      "icon": "token",
+      "description": "从龟妖与毒蛟身上取得的两只储物袋；内容物尚未逐项清点。"
+    },
+    {
+      "id": "spirit-talisman-manual",
+      "name": "降灵符炼制口诀",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "天符门云姓掌门交托的骨盒骨片，要求有机会带回天符门。"
+    },
+    {
+      "id": "frost-centipedes",
+      "name": "六翼霜蚣",
+      "category": "灵兽灵虫",
+      "icon": "beast",
+      "description": "柳玉交付的灵虫，经韩立培育，灵界初期发生蜕变与脱离控制。"
+    },
+    {
+      "id": "insect-manual",
+      "name": "驱虫秘术玉简",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "柳玉将所知驱虫秘术复制后，作为拜师礼交给韩立。"
+    },
+    {
+      "id": "disciple-treasures",
+      "name": "赐徒法宝（未具名）",
+      "category": "法器法宝",
+      "icon": "sword",
+      "description": "拜师时交给柳玉的两件法宝，章节没有逐一命名。"
+    },
+    {
+      "id": "disciple-pills",
+      "name": "赐徒妖兽丹药",
+      "category": "灵药材料",
+      "icon": "bottle",
+      "description": "交给柳玉的数瓶结丹期丹药，瓶数与每瓶数量不明。"
+    },
+    {
+      "id": "geng-essence",
+      "name": "庚精",
+      "category": "灵药材料",
+      "icon": "token",
+      "description": "用于增强青竹蜂云剑的珍稀材料；本批记录魏无涯额外交出的一块。"
+    },
+    {
+      "id": "dragon-scales",
+      "name": "毒蛟鳞片",
+      "category": "灵药材料",
+      "icon": "shield",
+      "description": "化形毒蛟蜕换的鳞片，交换给魏无涯；早先取得节点待补。"
+    },
+    {
+      "id": "turtle-shell",
+      "name": "八级玄龟龟壳",
+      "category": "灵药材料",
+      "icon": "shield",
+      "description": "交给至阳上人的八级妖兽材料，以交换庚精与仙藤根茎。"
+    },
+    {
+      "id": "heaven-vine",
+      "name": "玄天仙藤",
+      "category": "灵药材料",
+      "icon": "herb",
+      "description": "至阳上人交出的一截根茎，随后在药园培育、复活与结果。"
+    },
+    {
+      "id": "sun-feathers",
+      "name": "昊阳鸟火翎",
+      "category": "灵药材料",
+      "icon": "pen",
+      "description": "大晋岳阳宫之行从昊阳鸟尾部取得的火红长翎，装盒入袋。"
+    },
+    {
+      "id": "soul-stabilizer",
+      "name": "镇魂符",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "炼制人形傀儡时用于稳固大衍神君残魂的一张符箓。"
+    },
+    {
+      "id": "human-puppet",
+      "name": "元婴后期人形傀儡",
+      "category": "法器法宝",
+      "icon": "beast",
+      "description": "与大衍神君合作炼成的人形傀儡，后来在人界留给南宫婉。"
+    },
+    {
+      "id": "red-banner",
+      "name": "赤魂幡",
+      "category": "法器法宝",
+      "icon": "array",
+      "description": "由半截黑风旗炼成的空间宝物，用于后续搬运元磁山。"
+    },
+    {
+      "id": "black-flag",
+      "name": "半截黑风旗",
+      "category": "法器法宝",
+      "icon": "array",
+      "description": "作为赤魂幡的炼制原料，转化后不再作为独立宝物重复计算。"
+    },
+    {
+      "id": "return-water",
+      "name": "回阳水",
+      "category": "灵药材料",
+      "icon": "bottle",
+      "description": "炼成后部分自服、部分交给南宫婉，并用于尝试复活玄天仙藤。"
+    },
+    {
+      "id": "armor-talisman",
+      "name": "六丁天甲符",
+      "category": "符箓典籍",
+      "icon": "shield",
+      "description": "南宫婉在韩立进入空间节点前交付的防御灵符。"
+    },
+    {
+      "id": "three-flame-fan",
+      "name": "三焰扇",
+      "category": "法器法宝",
+      "icon": "pen",
+      "description": "进入空间节点前留给南宫婉的三色火焰宝物，初次炼成节点待补。"
+    },
+    {
+      "id": "blue-dings",
+      "name": "乾蓝鼎",
+      "category": "法器法宝",
+      "icon": "ding",
+      "description": "飞升前交给南宫婉的两只蓝色小鼎；不是虚天鼎。"
+    },
+    {
+      "id": "heaven-fruit",
+      "name": "玄天果实",
+      "category": "法器法宝",
+      "icon": "herb",
+      "description": "玄天仙藤结出的奇异果实，形似短棍，后来显出剑形。"
+    },
+    {
+      "id": "wood-bells",
+      "name": "千年木玲花",
+      "category": "灵药材料",
+      "icon": "herb",
+      "description": "黑隐山交换所用的两匣灵花，匣数不能当作花朵总数。"
+    },
+    {
+      "id": "crystal-worms",
+      "name": "金髓晶虫",
+      "category": "灵药材料",
+      "icon": "beast",
+      "description": "封在晶体中的十五对灵虫，本次作为炼体材料与产出金髓的来源登记。"
+    },
+    {
+      "id": "coral-sand",
+      "name": "金母珊瑚沙",
+      "category": "灵药材料",
+      "icon": "orb",
+      "description": "黑隐山交易取得的三葫芦紫金色灵沙。"
+    },
+    {
+      "id": "contact-talisman",
+      "name": "马长老万里符",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "云城万古族马长老交给韩立的联络符，区别于其他来源的万里符。"
+    },
+    {
+      "id": "pure-lotus",
+      "name": "净灵莲",
+      "category": "灵药材料",
+      "icon": "herb",
+      "description": "洗灵池中采下的一朵成熟灵莲，同章开始服用花瓣；剩余份量待核查。"
+    },
+    {
+      "id": "jade-inner-page",
+      "name": "金阙玉书内页",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "赫连商盟拍卖会上购得的完整内页，区别于早先获得的其他书页。"
+    },
+    {
+      "id": "auction-stones",
+      "name": "拍卖支付灵石",
+      "category": "灵药材料",
+      "icon": "orb",
+      "description": "用于记录商盟拍卖的明确支出，尚未建立灵石全量收支账本。"
+    },
+    {
+      "id": "thunder-jade",
+      "name": "天鼎炼雷术玉简",
+      "category": "符箓典籍",
+      "icon": "scroll",
+      "description": "天鼎宫取宝后由冰魄交给韩立的赤红玉简。"
+    },
+    {
+      "id": "dao-tokens",
+      "name": "道果令牌",
+      "category": "令牌杂物",
+      "icon": "token",
+      "description": "广灵道果大会中的银色道牌，凑足一百零八枚后用于兑换。"
+    },
+    {
+      "id": "dao-fruit",
+      "name": "广灵道果",
+      "category": "灵药材料",
+      "icon": "herb",
+      "description": "道果大会换得的一枚紫红晶果，拿到后当场服用。"
+    },
+    {
+      "id": "polar-crystal",
+      "name": "北极元晶",
+      "category": "灵药材料",
+      "icon": "orb",
+      "description": "重返人界时从坠魔谷地下起出的材料，数量未明确记载。"
+    },
+    {
+      "id": "heaven-sword",
+      "name": "玄天斩灵剑",
+      "category": "法器法宝",
+      "icon": "sword",
+      "description": "玄天果实所化的墨绿剑形至宝；终章渡劫后木剑断裂，保留受损记录。"
+    },
+    {
+      "id": "gold-bug-king",
+      "name": "噬金虫王",
+      "category": "灵兽灵虫",
+      "icon": "beast",
+      "description": "终章确认随韩立飞升、收入灵兽环的虫王；炼王过程尚待补齐。"
+    },
+    {
+      "id": "crab-puppet",
+      "name": "蟹道人仙傀儡",
+      "category": "法器法宝",
+      "icon": "beast",
+      "description": "具有自主契约的仙傀儡，并非普通法器；终章明确自愿随行并进入灵兽环。"
+    }
+  ],
+  "events": [
+    {
+      "chapter": 10,
+      "chapterTitle": "神秘瓶子",
+      "title": "青山拾瓶，仙途初启",
+      "arc": "七玄门",
+      "location": "彩霞山",
+      "summary": "山路落叶间，韩立意外拾得一个绿莹莹的小瓶。故事从这一件不起眼的随身物品开始。",
+      "changes": [
+        {
+          "itemId": "bottle",
+          "type": "gain",
+          "amount": 1,
+          "unit": "只",
+          "storage": "贴身携带",
+          "note": "从落叶中拾得，揣入怀中；此时并非储物袋物品。"
+        }
+      ],
+      "id": "ch-10",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0010.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 91,
+      "chapterTitle": "抢宝",
+      "title": "驱物夺剑，初得仙宝",
+      "arc": "七玄门",
+      "location": "落日峰",
+      "summary": "韩立以驱物术夺走金光上人操控的灰光。下一章才确认它是一张小剑符箓。",
+      "changes": [
+        {
+          "itemId": "sword-talisman",
+          "type": "gain",
+          "amount": 1,
+          "unit": "张",
+          "storage": "位置未明",
+          "note": "本章夺得控制权；第92章确认符箓形态并收入怀中。"
+        }
+      ],
+      "id": "ch-91",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0091.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 92,
+      "chapterTitle": "剑符",
+      "title": "飞剑现真容，原是一道符",
+      "arc": "七玄门",
+      "location": "落日峰",
+      "summary": "灰光消散，露出画有小剑的符纸，韩立将它揣进怀里。物品移动不会重复计为获得。",
+      "changes": [
+        {
+          "itemId": "sword-talisman",
+          "type": "move",
+          "storage": "贴身携带",
+          "note": "本章确认收在怀内；符宝之名是后文才了解的知识。"
+        }
+      ],
+      "id": "ch-92",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0092.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 93,
+      "chapterTitle": "烈火焚敌",
+      "title": "金光伏诛，遗物入手",
+      "arc": "七玄门",
+      "location": "落日峰",
+      "summary": "火弹术灭敌后，韩立从灰烬中翻出三件未被烧毁的东西：护身符、令牌与族谱。",
+      "changes": [
+        {
+          "itemId": "diamond-talisman",
+          "type": "gain",
+          "amount": 1,
+          "unit": "张",
+          "storage": "位置未明",
+          "note": "获得金罩防御符；第131章辨认为金刚符。"
+        },
+        {
+          "itemId": "ascension",
+          "type": "gain",
+          "amount": 1,
+          "unit": "枚",
+          "storage": "位置未明",
+          "note": "黑色三角令牌，刻有升仙令字样。"
+        },
+        {
+          "itemId": "genealogy",
+          "type": "gain",
+          "amount": 1,
+          "unit": "本",
+          "storage": "位置未明",
+          "note": "秦氏族谱；取得后未查明最终去向。"
+        }
+      ],
+      "id": "ch-93",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0093.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 138,
+      "chapterTitle": "制符之道",
+      "title": "丹药易符笔，初试制符",
+      "arc": "太南小会",
+      "location": "太南谷",
+      "summary": "以三瓶黄龙丹、四瓶金髓丸换下金竺笔与七星草种子。随后尝试制符，一打符纸尽数失败。",
+      "changes": [
+        {
+          "itemId": "pen",
+          "type": "gain",
+          "amount": 1,
+          "unit": "支",
+          "storage": "贴身携带",
+          "note": "木盒揣在身上，成交在本章开头得到明确确认。"
+        },
+        {
+          "itemId": "seeds",
+          "type": "gain",
+          "amount": 1,
+          "unit": "袋",
+          "storage": "位置未明",
+          "note": "与金竺笔一同换得；丹药总存量未明，不伪造结余。"
+        }
+      ],
+      "id": "ch-138",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0138.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 141,
+      "chapterTitle": "升仙令",
+      "title": "一符换残片，另有所图",
+      "arc": "太南小会",
+      "location": "太南谷",
+      "summary": "确认布状法宝残片可以透过灵气后，韩立用高阶飞行符与黑汉交换，收起残片。",
+      "changes": [
+        {
+          "itemId": "flight",
+          "type": "loss",
+          "amount": 1,
+          "unit": "张",
+          "note": "交换付出；此前获得节点尚未补入，不能据此推算此前总库存。"
+        },
+        {
+          "itemId": "fragment",
+          "type": "gain",
+          "amount": 1,
+          "unit": "片",
+          "storage": "贴身携带",
+          "note": "交割后将残片收入袖口。"
+        }
+      ],
+      "id": "ch-141",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0141.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 165,
+      "chapterTitle": "夜遇",
+      "title": "千年灵草，换得护道之物",
+      "arc": "黄枫谷",
+      "location": "万宝楼",
+      "summary": "两株千年灵草换下锦盒中的宝物。交易完成在第165章，不能把第163章店家展示误记为已经获得。",
+      "changes": [
+        {
+          "itemId": "blades",
+          "type": "gain",
+          "amount": 1,
+          "unit": "套",
+          "storage": "位置未明",
+          "note": "一母八子，共一套；并非九套。"
+        },
+        {
+          "itemId": "shield",
+          "type": "gain",
+          "amount": 1,
+          "unit": "件",
+          "storage": "位置未明",
+          "note": "玄铁飞天盾，交易后收好。"
+        },
+        {
+          "itemId": "thunder",
+          "type": "gain",
+          "amount": 1,
+          "unit": "颗",
+          "storage": "位置未明",
+          "note": "一次性雷珠。"
+        },
+        {
+          "itemId": "gold-brick",
+          "type": "gain",
+          "amount": 1,
+          "unit": "张",
+          "storage": "位置未明",
+          "note": "与其他锦盒宝物一同成交的金光砖符宝。"
+        }
+      ],
+      "id": "ch-165",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0165.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 189,
+      "chapterTitle": "雷灭",
+      "title": "天雷一击，险中取胜",
+      "arc": "血禁试炼",
+      "location": "血色禁地",
+      "summary": "韩立在与封岳的恶斗中动用天雷子。一次性雷珠耗去，金蚨子母刃则在战中被收回储物袋。",
+      "changes": [
+        {
+          "itemId": "thunder",
+          "type": "loss",
+          "amount": 1,
+          "unit": "颗",
+          "note": "用于击杀封岳，爆炸后不再持有。"
+        },
+        {
+          "itemId": "blades",
+          "type": "move",
+          "storage": "储物袋",
+          "note": "本章明确将金刃收进储物袋，确认容器位置。"
+        }
+      ],
+      "id": "ch-189",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0189.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 190,
+      "chapterTitle": "乌靴",
+      "title": "得失之间，又获乌靴",
+      "arc": "血禁试炼",
+      "location": "血色禁地",
+      "summary": "封岳的储物袋已毁，无法获得。韩立捡回镜子、水晶球、小刀符宝，又发现火焰烧不坏的乌靴。",
+      "changes": [
+        {
+          "itemId": "hook",
+          "type": "loss",
+          "note": "本章回顾确认银钩损失；获得节点尚待核查。"
+        },
+        {
+          "itemId": "rope",
+          "type": "loss",
+          "note": "本章回顾确认青索损失；获得节点尚待核查。"
+        },
+        {
+          "itemId": "mirror",
+          "type": "gain",
+          "amount": 1,
+          "unit": "面",
+          "storage": "位置未明",
+          "note": "从战场捡起。"
+        },
+        {
+          "itemId": "crystal",
+          "type": "gain",
+          "amount": 1,
+          "unit": "颗",
+          "storage": "位置未明",
+          "note": "从战场捡起。"
+        },
+        {
+          "itemId": "knife-talisman",
+          "type": "gain",
+          "amount": 1,
+          "unit": "张",
+          "storage": "位置未明",
+          "note": "恢复为符箓后捡起。"
+        },
+        {
+          "itemId": "boots",
+          "type": "gain",
+          "amount": 1,
+          "unit": "双",
+          "storage": "位置未明",
+          "note": "从封岳残骸处拾起，并测试其效用。"
+        }
+      ],
+      "id": "ch-190",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0190.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 227,
+      "chapterTitle": "结交之心",
+      "title": "灵药换奇阵，结识齐云霄",
+      "arc": "筑基行纪",
+      "location": "元武国秘店",
+      "summary": "韩立交出千年紫桂花，换得颠倒五行阵器具和炼器心得，并封印心得以作日后交还之约。",
+      "changes": [
+        {
+          "itemId": "formation",
+          "type": "gain",
+          "amount": 1,
+          "unit": "套",
+          "storage": "位置未明",
+          "note": "十八阵盘、三十六阵旗，计一套；后续布设位置待补。"
+        },
+        {
+          "itemId": "craft-notes",
+          "type": "gain",
+          "amount": 1,
+          "unit": "本",
+          "storage": "位置未明",
+          "note": "接过并封印收藏；属于有约定的暂持物。"
+        }
+      ],
+      "id": "ch-227",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0227.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 271,
+      "chapterTitle": "大挪移令和古传送阵",
+      "title": "古阵藏玄机，灵卵得新生",
+      "arc": "筑基行纪",
+      "location": "地下洞穴",
+      "summary": "探查古传送阵时，韩立收起大挪移令，另找到两枚蜘蛛卵，并收存五色骸骨烧出的珠子。",
+      "changes": [
+        {
+          "itemId": "teleport",
+          "type": "gain",
+          "amount": 1,
+          "unit": "枚",
+          "storage": "储物袋",
+          "note": "原文明示小心收入储物袋。"
+        },
+        {
+          "itemId": "spider-eggs",
+          "type": "gain",
+          "amount": 2,
+          "unit": "枚",
+          "storage": "灵兽袋",
+          "note": "收入专门盛装灵兽的皮袋，不能计作普通储物袋内的灵兽。"
+        },
+        {
+          "itemId": "beads",
+          "type": "gain",
+          "storage": "位置未明",
+          "note": "原文仅说七八颗，数量保持未知。"
+        }
+      ],
+      "id": "ch-271",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0271.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 345,
+      "chapterTitle": "小老头与钟声",
+      "title": "灵卵孵化，双蛛相随",
+      "arc": "筑基行纪",
+      "location": "黄枫谷洞府",
+      "summary": "韩立回府确认两枚蜘蛛卵已经孵化，将两只白蜘蛛装进皮袋带走。卵与幼蛛不会同时作为两份存量。",
+      "changes": [
+        {
+          "itemId": "spider-eggs",
+          "type": "loss",
+          "amount": 2,
+          "unit": "枚",
+          "note": "已孵化，卵的形态结束，并非两枚卵被丢弃。"
+        },
+        {
+          "itemId": "spiders",
+          "type": "gain",
+          "amount": 2,
+          "unit": "只",
+          "storage": "灵兽袋",
+          "note": "两只血玉蜘蛛幼体确认孵化，随后装进皮袋。"
+        }
+      ],
+      "id": "ch-345",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0345.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 387,
+      "chapterTitle": "噬金虫",
+      "title": "借蛛缚虫，初获噬金",
+      "arc": "乱星海",
+      "location": "小寰岛洞府",
+      "summary": "发现洞府奇虫遭吞噬后，韩立以血玉蜘蛛捕住银色噬金虫，将网团封入玉匣收入储物袋。",
+      "changes": [
+        {
+          "itemId": "gold-bugs",
+          "type": "gain",
+          "storage": "储物袋",
+          "note": "捕获的虫群装匣入袋，未逐只清点；此时尚不是后来数万只的规模。"
+        }
+      ],
+      "id": "ch-387",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0387.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 415,
+      "chapterTitle": "珠中",
+      "title": "七十二剑成，本命法宝初现",
+      "arc": "乱星海",
+      "location": "天星城洞府",
+      "summary": "历经炼制，七十二口青竹蜂云剑终于完成，并被吸入体内。炼制剑胚的第414章不等于炼成。",
+      "changes": [
+        {
+          "itemId": "bamboo-swords",
+          "type": "gain",
+          "amount": 72,
+          "unit": "口",
+          "storage": "体内温养",
+          "note": "本命法宝收入体内，不计入储物袋。"
+        }
+      ],
+      "id": "ch-415",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0415.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 464,
+      "chapterTitle": "鸣魂珠",
+      "title": "熔岩路上，元瑶交付啼魂",
+      "arc": "虚天殿",
+      "location": "熔岩路",
+      "summary": "为换取韩立庇护，元瑶将装着啼魂兽的灵兽袋交付。鸣魂珠的交付与炼化另行核对。",
+      "changes": [
+        {
+          "itemId": "soul-beast",
+          "type": "gain",
+          "amount": 1,
+          "unit": "只",
+          "storage": "灵兽袋",
+          "note": "原文明确韩立接过装兽皮袋并别在腰间；不是只达成口头约定。"
+        }
+      ],
+      "id": "ch-464",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0464.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 491,
+      "chapterTitle": "收鼎",
+      "title": "虚天鼎入手，至宝归谁",
+      "arc": "虚天殿",
+      "location": "虚天殿内殿",
+      "summary": "借助血玉蜘蛛牵引，韩立控制住虚天鼎，将它缩小到掌中。获得宝物与装进储物袋是两个不同事实。",
+      "changes": [
+        {
+          "itemId": "ding",
+          "type": "gain",
+          "amount": 1,
+          "unit": "尊",
+          "storage": "贴身携带",
+          "note": "缩小后落在掌中；本章未以入袋作为记录依据。"
+        }
+      ],
+      "id": "ch-491",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0491.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 494,
+      "chapterTitle": "乾蓝珠",
+      "title": "冰焰凝珠，封匣收遗骨",
+      "arc": "虚天殿",
+      "location": "虚天殿祭坛",
+      "summary": "乾蓝冰焰凝成冰珠后被雷网封住，韩立装匣收好，又把玄骨肋骨收入储物袋，并收起受创的血玉蜘蛛。",
+      "changes": [
+        {
+          "itemId": "blue-pearl",
+          "type": "gain",
+          "amount": 1,
+          "unit": "颗",
+          "storage": "位置未明",
+          "note": "封入玉匣后妥善收好；原文未明示玉匣最终放入哪一容器。"
+        },
+        {
+          "itemId": "rib",
+          "type": "gain",
+          "amount": 1,
+          "unit": "截",
+          "storage": "储物袋",
+          "note": "从玄骨身死处拾取，并明确扔进储物袋。"
+        },
+        {
+          "itemId": "soul-pearl",
+          "type": "observe",
+          "amount": 1,
+          "unit": "颗",
+          "storage": "贴身携带",
+          "note": "本章从口中吐出并握在手中，确认已经持有；首次真正接珠的细节待补。"
+        },
+        {
+          "itemId": "spiders",
+          "type": "observe",
+          "quantityUnknown": true,
+          "storage": "灵兽袋",
+          "note": "本章明确收回一只元气大伤的血玉蜘蛛；两只幼体至此的数量变化尚待补，当前不再沿用幼体数量。"
+        }
+      ],
+      "id": "ch-494",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0494.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 498,
+      "chapterTitle": "真假难辨",
+      "title": "分取灵乳，留下养魂木根",
+      "arc": "虚天殿",
+      "location": "虚天殿密室与殿外海面",
+      "summary": "韩立与元瑶约定分取万年灵乳及养魂木根部，随后合力破阵并离殿。原文略去了交割动作，按本章协议和离殿叙述登记。",
+      "changes": [
+        {
+          "itemId": "milk",
+          "type": "gain",
+          "storage": "位置未明",
+          "note": "协议确认韩立仍要取得灵乳，份量未写明；破阵与离殿过程略叙，不虚填瓶数。"
+        },
+        {
+          "itemId": "soul-wood",
+          "type": "gain",
+          "storage": "位置未明",
+          "note": "协议只取一小节根部，元瑶保留主干；交割细节略写，尚待后文持有记录复核。"
+        }
+      ],
+      "id": "ch-498",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0498.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 551,
+      "chapterTitle": "噬蛟",
+      "title": "夺翅封魂，虫群亦有伤亡",
+      "arc": "外海风云",
+      "location": "风希炼器室",
+      "summary": "韩立封住八级毒蛟精魂收入袋中，抢到尚未定形的风雷翅。战中大批噬金虫被毒光所灭，不能登记为毫无消耗。",
+      "changes": [
+        {
+          "itemId": "gold-bugs",
+          "type": "loss",
+          "partial": true,
+          "note": "大量噬金虫被毒光化去，数量未明确；记为部分损失，保留虫群而将余量标为未知。"
+        },
+        {
+          "itemId": "dragon-soul",
+          "type": "gain",
+          "amount": 1,
+          "unit": "份",
+          "storage": "储物袋",
+          "note": "蛟魂装入玉瓶并小心收进储物袋。"
+        },
+        {
+          "itemId": "wind-wings",
+          "type": "gain",
+          "amount": 1,
+          "unit": "对",
+          "storage": "储物袋",
+          "note": "打破光罩后以青光卷回，随即塞进储物袋；此时尚未完成定形。"
+        }
+      ],
+      "id": "ch-551",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0551.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 552,
+      "chapterTitle": "逃匿与追杀",
+      "title": "两只妖修储物袋，随身带走",
+      "arc": "外海风云",
+      "location": "风希洞府",
+      "summary": "逃离前，韩立从龟妖身上拽下储物袋，又在毒蛟残骸中找到另一只。这里先记录容器，内容物不凭空展开。",
+      "changes": [
+        {
+          "itemId": "demon-bags",
+          "type": "gain",
+          "amount": 2,
+          "unit": "只",
+          "storage": "贴身携带",
+          "note": "分别来自龟妖与毒蛟；没有把风希也算作被搜走储物袋的对象。"
+        }
+      ],
+      "id": "ch-552",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0552.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 553,
+      "chapterTitle": "雷遁之术",
+      "title": "风雷翅定形，收入丹田",
+      "arc": "外海风云",
+      "location": "外海荒岛",
+      "summary": "韩立以精血认主，再用辟邪神雷完成灵翅定形，将本体吸入体内，试出了雷遁术。",
+      "changes": [
+        {
+          "itemId": "wind-wings",
+          "type": "move",
+          "storage": "体内温养",
+          "note": "本体停在丹田上方，背上显现的是灵力幻形；不再算作储物袋库存。"
+        },
+        {
+          "itemId": "milk",
+          "type": "loss",
+          "partial": true,
+          "note": "本章开头再次喝下一滴灵液恢复法力；连续追逃期间总耗量未明确。"
+        }
+      ],
+      "id": "ch-553",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0553.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 591,
+      "chapterTitle": "降灵符",
+      "title": "阴冥受托，骨盒载符诀",
+      "arc": "阴冥脱困",
+      "location": "阴冥之地",
+      "summary": "天符门云姓掌门把降灵符炼制口诀交托给韩立，希望他有机会带回宗门，韩立接过了骨盒。",
+      "changes": [
+        {
+          "itemId": "spirit-talisman-manual",
+          "type": "gain",
+          "amount": 1,
+          "unit": "盒",
+          "storage": "贴身携带",
+          "note": "盒内为多块刻字骨片；得到的是炼制口诀，并非一张现成的降灵符。"
+        }
+      ],
+      "id": "ch-591",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0591.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 671,
+      "chapterTitle": "虫甲术",
+      "title": "柳玉拜师，霜蚣与秘术入手",
+      "arc": "重返天南",
+      "location": "落云宗洞府",
+      "summary": "韩立赐柳玉两件法宝和数瓶丹药；柳玉则交出驱虫秘术玉简及六翼霜蚣。双方的物品往来分别登记。",
+      "changes": [
+        {
+          "itemId": "disciple-treasures",
+          "type": "loss",
+          "amount": 2,
+          "unit": "件",
+          "note": "拜师时赐出，原文未具名；不擅自对应为任何已知法宝。"
+        },
+        {
+          "itemId": "disciple-pills",
+          "type": "loss",
+          "note": "赐出数瓶结丹期妖兽丹药，总瓶数与总存量未知。"
+        },
+        {
+          "itemId": "frost-centipedes",
+          "type": "gain",
+          "storage": "位置未明",
+          "note": "本章交付的是几只六翼霜蚣，不把后文十二条的数量倒填到本章。"
+        },
+        {
+          "itemId": "insect-manual",
+          "type": "gain",
+          "amount": 1,
+          "unit": "枚",
+          "storage": "位置未明",
+          "note": "柳玉复制所知驱虫秘术后，与灵虫一并交付。"
+        }
+      ],
+      "id": "ch-671",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0671.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 761,
+      "chapterTitle": "玄天仙藤",
+      "title": "妖材易庚精，意外得仙藤",
+      "arc": "慕兰之战",
+      "location": "阗天城",
+      "summary": "魏无涯收下毒蛟鳞片，额外给出一块庚精；至阳上人则以一截玄天仙藤根茎补偿八级玄龟龟壳。",
+      "changes": [
+        {
+          "itemId": "dragon-scales",
+          "type": "loss",
+          "note": "本章明确魏无涯已验看并收起；鳞片数量未写明。"
+        },
+        {
+          "itemId": "turtle-shell",
+          "type": "loss",
+          "amount": 1,
+          "unit": "份",
+          "note": "交给至阳上人的八级玄龟龟壳材料；取得节点待补。"
+        },
+        {
+          "itemId": "geng-essence",
+          "type": "gain",
+          "amount": 1,
+          "unit": "块",
+          "storage": "位置未明",
+          "note": "这里只计算魏无涯本章追加的一块，不把之前已交的庚精数量猜作同一块。"
+        },
+        {
+          "itemId": "heaven-vine",
+          "type": "gain",
+          "amount": 1,
+          "unit": "截",
+          "storage": "位置未明",
+          "note": "至阳上人将根茎扔来，韩立接下并放入玉盒；尚未复活。"
+        }
+      ],
+      "id": "ch-761",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0761.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 933,
+      "chapterTitle": "得翎",
+      "title": "昊阳鸟脱翎，封盒入袋",
+      "arc": "大晋行纪",
+      "location": "岳阳宫秘谷",
+      "summary": "昊阳鸟主动脱落尾部火翎。韩立接住后装入玉盒、贴符封好，明确收入储物袋。",
+      "changes": [
+        {
+          "itemId": "sun-feathers",
+          "type": "gain",
+          "storage": "储物袋",
+          "note": "原文只写几根长翎，未给确切根数，不以插图或常识补齐。"
+        }
+      ],
+      "id": "ch-933",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0933.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 968,
+      "chapterTitle": "傀儡大成",
+      "title": "一张镇魂符，稳住故人残魂",
+      "arc": "大晋行纪",
+      "location": "炼傀密室",
+      "summary": "大衍神君分魂后，韩立主动耗用一张镇魂符，帮助他撑到看见人形傀儡真正威力之时。",
+      "changes": [
+        {
+          "itemId": "soul-stabilizer",
+          "type": "loss",
+          "amount": 1,
+          "unit": "张",
+          "note": "血符化为血芒后被小人傀儡吸收；此前从一名元婴修士的储物袋中取得，具体章号待补。"
+        }
+      ],
+      "id": "ch-968",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0968.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 969,
+      "chapterTitle": "苦竹岛",
+      "title": "人形傀儡炼成，首次出袋试威",
+      "arc": "大晋行纪",
+      "location": "苦竹岛外",
+      "summary": "本章明确韩立在人形傀儡刚炼制完毕后赶到苦竹岛，并从腰间储物袋放出傀儡；不将未完成的部件当成成品。",
+      "changes": [
+        {
+          "itemId": "human-puppet",
+          "type": "observe",
+          "amount": 1,
+          "unit": "具",
+          "storage": "储物袋",
+          "note": "首次在本批数据确认成品持有；本章出袋测试，最初完工发生在相邻章节间。"
+        }
+      ],
+      "id": "ch-969",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/0969.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1251,
+      "chapterTitle": "仙藤复活",
+      "title": "黑风旗化赤魂幡，回阳水另有用处",
+      "arc": "人界化神",
+      "location": "坠魔谷与落云宗",
+      "summary": "韩立炼成赤魂幡和芥子空间，并以回阳水自服、赠婉、浇藤。仙藤复活在本章末得到确认。",
+      "changes": [
+        {
+          "itemId": "black-flag",
+          "type": "loss",
+          "amount": 1,
+          "unit": "截",
+          "note": "半截黑风旗最终炼成赤魂幡，原形不再独立计入。"
+        },
+        {
+          "itemId": "red-banner",
+          "type": "gain",
+          "amount": 1,
+          "unit": "杆",
+          "storage": "位置未明",
+          "note": "本章确认炼制完毕，是空间类宝物。"
+        },
+        {
+          "itemId": "return-water",
+          "type": "observe",
+          "note": "曾炼成数瓶，自服一瓶、送南宫婉一瓶并用于药园；剩余量不明，不将数瓶全部列为库存。"
+        },
+        {
+          "itemId": "heaven-vine",
+          "type": "move",
+          "storage": "洞府存放",
+          "note": "药园栽种，受回阳水作用复活；不再将这一整株仙藤列在储物袋内。"
+        }
+      ],
+      "id": "ch-1251",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1251.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1252,
+      "chapterTitle": "玄天之宝",
+      "title": "药园藤蔓复苏，根茎已成灵株",
+      "arc": "人界化神",
+      "location": "落云宗药园",
+      "summary": "韩立到药园亲眼确认玄天仙藤已爬满白玉石柱。此时是培育状态，尚不能登记为已经收获玄天果实。",
+      "changes": [
+        {
+          "itemId": "heaven-vine",
+          "type": "observe",
+          "storage": "洞府存放",
+          "note": "原来的枯枝已成葱绿藤蔓；沿用同一物品身份，避免根茎与活藤重复计算。"
+        }
+      ],
+      "id": "ch-1252",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1252.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1264,
+      "chapterTitle": "六丁天甲符",
+      "title": "婉儿赠灵符，为跨界添一重甲",
+      "arc": "人界化神",
+      "location": "五龙海岛屿",
+      "summary": "南宫婉演示六丁天甲符后，将银符送到韩立面前，韩立收起。符箓只有一张，未取得炼制方法。",
+      "changes": [
+        {
+          "itemId": "armor-talisman",
+          "type": "gain",
+          "amount": 1,
+          "unit": "张",
+          "storage": "位置未明",
+          "note": "本章明确交付与收起；防御威能来自周围天地灵气。"
+        }
+      ],
+      "id": "ch-1264",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1264.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1265,
+      "chapterTitle": "进入节点",
+      "title": "临别留宝，人形傀儡与双鼎赠婉",
+      "arc": "跨界灵界",
+      "location": "五龙海空间节点",
+      "summary": "进入空间节点前，韩立收回第二元婴，把人形傀儡、两只蓝色小鼎和三色火焰宝物留给南宫婉。",
+      "changes": [
+        {
+          "itemId": "human-puppet",
+          "type": "loss",
+          "amount": 1,
+          "unit": "具",
+          "note": "人形傀儡缩为木偶后交给南宫婉，第二元婴已先收回。"
+        },
+        {
+          "itemId": "blue-dings",
+          "type": "loss",
+          "amount": 2,
+          "unit": "只",
+          "note": "两只乾蓝鼎一并推给南宫婉，并非失去虚天鼎。"
+        },
+        {
+          "itemId": "three-flame-fan",
+          "type": "loss",
+          "amount": 1,
+          "unit": "件",
+          "note": "随傀儡和双鼎留下的三色火焰宝物；本章以外形叙述，具体名称尚需相邻章节复核。"
+        }
+      ],
+      "id": "ch-1265",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1265.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1294,
+      "chapterTitle": "重得宝物",
+      "title": "沙漠取回埋物，霜蚣却自行远遁",
+      "arc": "灵界初临",
+      "location": "青罗沙漠",
+      "summary": "韩立挖出埋藏的储物袋与灵兽袋，确认噬金虫和啼魂兽仍在。进化后的六翼霜蚣暂时脱离控制，独自飞走。",
+      "changes": [
+        {
+          "itemId": "frost-centipedes",
+          "type": "loss",
+          "note": "十二条蜈蚣凝为一条后飞走，暂时失去控制，不等于已被击杀。"
+        },
+        {
+          "itemId": "gold-bugs",
+          "type": "move",
+          "storage": "灵兽袋",
+          "note": "取回埋在地下的灵兽袋，仍能感应到虫群存在，数量未知。"
+        },
+        {
+          "itemId": "soul-beast",
+          "type": "move",
+          "storage": "灵兽袋",
+          "note": "啼魂兽仍在袋内酣睡，袋口随后扎紧并揣入怀中。"
+        }
+      ],
+      "id": "ch-1294",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1294.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1327,
+      "chapterTitle": "玄天果实",
+      "title": "灵界重检随身物，木棍实为仙藤果",
+      "arc": "灵界初临",
+      "location": "天渊城洞府",
+      "summary": "韩立拿出早在人界取得的玄天果实研究，确认其形似短棍且难以损坏。此处是再次确认，不把灵界研究误作首次采果。",
+      "changes": [
+        {
+          "itemId": "heaven-fruit",
+          "type": "observe",
+          "amount": 1,
+          "unit": "枚",
+          "storage": "位置未明",
+          "note": "本章回顾飞升前已经取得；首次采收动作尚未单独定位，不倒填为本章新得。"
+        }
+      ],
+      "id": "ch-1327",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1327.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1411,
+      "chapterTitle": "金髓炼体",
+      "title": "两匣木玲花，换得晶虫与灵沙",
+      "arc": "飞灵游历",
+      "location": "黑隐山洞府",
+      "summary": "韩立交出两匣千年木玲花，收下十五对金髓晶虫和三葫芦金母珊瑚沙，交易完成后才开始研究。",
+      "changes": [
+        {
+          "itemId": "wood-bells",
+          "type": "loss",
+          "amount": 2,
+          "unit": "匣",
+          "note": "匣数明确，花朵总数不明；早先种植与持有流水待补。"
+        },
+        {
+          "itemId": "crystal-worms",
+          "type": "gain",
+          "amount": 15,
+          "unit": "对",
+          "storage": "位置未明",
+          "note": "十五块晶体各封一对，按对计数。"
+        },
+        {
+          "itemId": "coral-sand",
+          "type": "gain",
+          "amount": 3,
+          "unit": "葫芦",
+          "storage": "位置未明",
+          "note": "各葫芦装着灵沙，净重量未写明，不将容器个数当成沙粒数。"
+        }
+      ],
+      "id": "ch-1411",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1411.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1535,
+      "chapterTitle": "新飞剑",
+      "title": "七十二剑重炼，再度收入体内",
+      "arc": "灵界远行",
+      "location": "海外洞府药园",
+      "summary": "七十二口新飞剑从金雷竹中成形。韩立测试剑身虚化后将整套收入体内，属于原有本命飞剑的重炼。",
+      "changes": [
+        {
+          "itemId": "bamboo-swords",
+          "type": "observe",
+          "amount": 72,
+          "unit": "口",
+          "storage": "体内温养",
+          "note": "明确仍是七十二口，不在旧数量上再加七十二。来源网页编号1430，实际章号1535。"
+        }
+      ],
+      "id": "ch-1535",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1430.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 1596,
+      "chapterTitle": "交换和后手",
+      "title": "云城议广寒，收下联络万里符",
+      "arc": "灵界远行",
+      "location": "云城万古族通灵殿",
+      "summary": "商议广寒界与跨大陆传送后，韩立收下马长老交来的一张万里符，再告辞离开。承诺与实际物品分开记。",
+      "changes": [
+        {
+          "itemId": "contact-talisman",
+          "type": "gain",
+          "amount": 1,
+          "unit": "张",
+          "storage": "位置未明",
+          "note": "本章明确收下；获得的是联络符，不是已经拿到传送费用或丹药报酬。"
+        }
+      ],
+      "id": "ch-1596",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1438.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2102,
+      "chapterTitle": "净灵莲",
+      "title": "噬金虫潜洗灵池，收回灵兽环",
+      "arc": "魔界之行",
+      "location": "魔源海洗灵池",
+      "summary": "韩立让成熟噬金虫潜池寻莲，察觉下水后的虫体有白丝变化，随后将它们收回灵兽环。此时还没有摘下灵莲。",
+      "changes": [
+        {
+          "itemId": "gold-bugs",
+          "type": "move",
+          "storage": "灵兽环",
+          "note": "本章末明确将下水虫群全部收回环中；数百只参与探查不能当作虫群全部总量。"
+        }
+      ],
+      "id": "ch-2102",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1671.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2103,
+      "chapterTitle": "脱胎换骨",
+      "title": "净灵莲到手，洗髓中逐瓣服用",
+      "arc": "魔界之行",
+      "location": "魔源海洗灵池",
+      "summary": "韩立亲自下池，采下一朵绽放灵莲封入玉盒，洗髓时先后服用花瓣。同章得物也会同章消耗。",
+      "changes": [
+        {
+          "itemId": "pure-lotus",
+          "type": "gain",
+          "amount": 1,
+          "unit": "朵",
+          "storage": "位置未明",
+          "note": "完整莲花从茎杆割下并收进玉盒。"
+        },
+        {
+          "itemId": "pure-lotus",
+          "type": "loss",
+          "partial": true,
+          "note": "原文明示至少服用第一、第二枚花瓣；剩余瓣数未明，不再标为完整一朵，也不擅自断言全部吃完。"
+        }
+      ],
+      "id": "ch-2103",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1672.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2110,
+      "chapterTitle": "蟹道人",
+      "title": "伪造化露为约，仙傀儡暂时同行",
+      "arc": "魔界之行",
+      "location": "魔源海",
+      "summary": "韩立与黄金巨蟹订立临时契约，每月提供伪造化露，出手报酬另计。它是自愿同行的仙傀儡，并非无条件获得的法器。",
+      "changes": [
+        {
+          "itemId": "crab-puppet",
+          "type": "observe",
+          "amount": 1,
+          "unit": "位",
+          "storage": "位置未明",
+          "note": "本章确认临时契约与同行关系，石板契书由巨蟹吞回，不登记为韩立袋中物。"
+        }
+      ],
+      "id": "ch-2110",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1679.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2330,
+      "chapterTitle": "玉书再现",
+      "title": "六亿一千万灵石，竞得玉书内页",
+      "arc": "大乘游历",
+      "location": "赫连商盟拍卖会",
+      "summary": "韩立竞得一张金阙玉书完整内页，付清灵石后直接收入储物镯。没有把同场未购得的翻天旗记入库存。",
+      "changes": [
+        {
+          "itemId": "auction-stones",
+          "type": "loss",
+          "amount": 610000000,
+          "unit": "灵石折价",
+          "note": "按成交价登记支出；灵石品级、付款组合与此前总余额未明确。"
+        },
+        {
+          "itemId": "jade-inner-page",
+          "type": "gain",
+          "amount": 1,
+          "unit": "页",
+          "storage": "储物镯",
+          "note": "书页已经送来、付款并入镯，区别于仅出价或店家展示。"
+        }
+      ],
+      "id": "ch-2330",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1899.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2364,
+      "chapterTitle": "取宝",
+      "title": "冰魄赠玉简，天鼎炼雷术到手",
+      "arc": "大乘游历",
+      "location": "天鼎宫",
+      "summary": "取宝之后，冰魄仙子把对韩立有用的赤红玉简直接交给他，无需另作复制。",
+      "changes": [
+        {
+          "itemId": "thunder-jade",
+          "type": "gain",
+          "amount": 1,
+          "unit": "枚",
+          "storage": "位置未明",
+          "note": "冰魄递出，韩立以袖卷接过；具体入袋或入镯动作未写明。"
+        }
+      ],
+      "id": "ch-2364",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/1933.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2435,
+      "chapterTitle": "瓶灵回归",
+      "title": "再赴魔源海，小瓶与瓶灵重逢",
+      "arc": "飞升前夕",
+      "location": "魔源海与返程巨舟",
+      "summary": "韩立处理瓶灵回归之事后离开魔源海，在舟中把玩翠绿小瓶，随后收起。并非又捡到第二只掌天瓶。",
+      "changes": [
+        {
+          "itemId": "bottle",
+          "type": "observe",
+          "amount": 1,
+          "unit": "只",
+          "storage": "位置未明",
+          "note": "同一只小瓶的后期状态更新；雾中七日的具体过程略写，不把标题直接当作一只新瓶的入账。"
+        }
+      ],
+      "id": "ch-2435",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/2004.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2440,
+      "chapterTitle": "得果",
+      "title": "百零八牌换道果，得手便服下",
+      "arc": "飞升前夕",
+      "location": "龙岛道果大会",
+      "summary": "韩立凑足一百零八枚银色道牌，换得一枚广灵道果，接过玉盒后直接把灵果吃掉。章末不应仍显示持有道果。",
+      "changes": [
+        {
+          "itemId": "dao-tokens",
+          "type": "observe",
+          "amount": 108,
+          "unit": "枚",
+          "storage": "贴身携带",
+          "note": "兑换前本章明确清点为一百零八枚；逐次收集流水待补。"
+        },
+        {
+          "itemId": "dao-tokens",
+          "type": "loss",
+          "amount": 108,
+          "unit": "枚",
+          "note": "作为换取一枚广灵道果的对价交出。"
+        },
+        {
+          "itemId": "dao-fruit",
+          "type": "gain",
+          "amount": 1,
+          "unit": "枚",
+          "storage": "贴身携带",
+          "note": "龙族长老交来玉盒，韩立伸手接过。"
+        },
+        {
+          "itemId": "dao-fruit",
+          "type": "loss",
+          "amount": 1,
+          "unit": "枚",
+          "note": "当场取出咀嚼吞服，获得与消耗发生在同一章。"
+        }
+      ],
+      "id": "ch-2440",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/2009.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2444,
+      "chapterTitle": "北极元晶",
+      "title": "重返人界，起出北极元晶",
+      "arc": "飞升前夕",
+      "location": "人界坠魔谷",
+      "summary": "韩立将坠魔谷地下的北极元晶起出，布置法阵准备携带这些材料跨界返回。确切数量未公布。",
+      "changes": [
+        {
+          "itemId": "polar-crystal",
+          "type": "gain",
+          "storage": "位置未明",
+          "note": "取走的是谷底主体材料；其他修士后来捡到的十几颗残余不是韩立取得数量。"
+        }
+      ],
+      "id": "ch-2444",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/2013.html",
+      "evidence": "chapter-checked"
+    },
+    {
+      "chapter": 2446,
+      "chapterTitle": "飞升仙界（大结局）",
+      "title": "渡劫木剑折，虫王仙傀随身飞升",
+      "arc": "飞升仙界",
+      "location": "灵界渡劫荒岛",
+      "summary": "渡劫中，韩立的墨绿木剑断裂。噬金虫王与蟹道人随后进入灵兽环随行飞升；终章明确受损，不能直接把宝物当成完好。",
+      "changes": [
+        {
+          "itemId": "heaven-sword",
+          "type": "observe",
+          "amount": 1,
+          "unit": "口",
+          "storage": "贴身携带",
+          "note": "本章使用玄天果实所化墨绿木剑渡劫；首次化剑与此前封印节点待补。"
+        },
+        {
+          "itemId": "heaven-sword",
+          "type": "damage",
+          "note": "木剑从中断裂，韩立仍低首查看残剑；记为受损残件，不直接当作消失或全部销毁。"
+        },
+        {
+          "itemId": "gold-bug-king",
+          "type": "observe",
+          "amount": 1,
+          "unit": "只",
+          "storage": "灵兽环",
+          "note": "终章明确虫王收入韩立腕上灵兽环；虫群到虫王的培育损耗尚未补全。"
+        },
+        {
+          "itemId": "crab-puppet",
+          "type": "move",
+          "storage": "灵兽环",
+          "note": "蟹道人自愿进入灵兽环并随行飞升，不能把临时契约等同为无条件占有。"
+        }
+      ],
+      "id": "ch-2446",
+      "source": "https://www.bidutuijian.com/books/FanRenXiuXianChuan/2015.html",
+      "evidence": "chapter-checked"
+    }
+  ]
+}

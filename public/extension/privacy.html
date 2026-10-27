@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>隐私政策 · 韩立的储物袋追番助手</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, sans-serif; color: #263e32; background: #f5f3eb; }
+    body { max-width: 760px; margin: 0 auto; padding: 48px 24px; line-height: 1.85; }
+    h1, h2 { font-family: "Noto Serif SC", "Songti SC", serif; color: #173d30; line-height: 1.5; }
+    h1 { font-size: 28px; } h2 { font-size: 20px; margin-top: 30px; }
+    a { color: #285f45; text-underline-offset: 4px; } small { color: #4d6051; }
+    article { border-top: 3px solid #9b824a; padding-top: 20px; }
+  </style>
+</head>
+<body>
+  <a href="/">← 返回仙途档案</a>
+  <h1>韩立的储物袋 · 追番助手<br>隐私政策</h1>
+  <small>适用版本：0.1.0 · 更新日期：2026年10月27日</small>
+  <article>
+    <p>本扩展帮助用户在观看《凡人修仙传》时，识别当前 B 站剧集并查看对应小说进度的物品考据记录。本扩展是非官方同人工具，无需注册扩展账号。</p>
+    <h2>读取哪些信息</h2>
+    <p>点击扩展按钮后，扩展读取当前标签页的网址，以判断是否为支持的 B 站播放页；在支持的播放页中，按需读取剧集编号、标题、选中的剧集以及页面中的公开剧集元数据。弹窗打开期间会检查当前标签页网址的变化，以便切换剧集。扩展不在后台持续监控浏览活动，不读取浏览历史、账号密码、Cookie 或视频播放时间。</p>
+    <h2>本地保存的信息</h2>
+    <p>观看前后模式、手动章节校准、公开剧集目录缓存保存在浏览器扩展的本地存储中，不使用 Chrome 同步存储。物品数据及章节映射随安装包提供，查询和筛选在本机进行。卸载扩展会移除扩展的本地存储。</p>
+    <h2>网络请求与第三方</h2>
+    <p>需要解析未知剧集或用户点击刷新时，扩展会向 https://api.bilibili.com/ 请求公开剧集元数据，请求中包含剧集 ep ID 或季度 season ID。请求不携带 Cookie，不发送页面正文、手动校准内容或物品查询记录。B 站作为请求接收方能够收到这些编号，以及网络请求通常携带的 IP 地址等连接信息；其处理方式适用 B 站的隐私政策。</p>
+    <p>扩展不向开发者服务器发送浏览记录或查询记录，不包含广告、行为分析 SDK 或第三方追踪代码，不出售用户数据。用户主动打开原著出处、项目网站或 GitHub 链接时，将离开扩展并访问对应网站，由该网站处理访问请求。</p>
+    <h2>权限的用途</h2>
+    <ul>
+      <li><strong>activeTab：</strong>用户点击后识别当前标签页及播放链接。</li>
+      <li><strong>scripting：</strong>在支持的播放页运行只读脚本，提取剧集识别信息。</li>
+      <li><strong>storage：</strong>在本机保存模式、章节校准和剧集目录缓存。</li>
+      <li><strong>api.bilibili.com：</strong>请求公开剧集元数据。</li>
+    </ul>
+    <h2>统计与联系</h2>
+    <p>如果通过 Chrome 应用商店安装，Google 可按其自身政策生成商店安装、卸载等统计。这不依赖扩展向开发者上传观看或查询行为。</p>
+    <p>本政策随扩展行为变化更新。如有隐私问题，可通过 <a href="https://github.com/FrankHuy/HanlisStorageBag/issues">项目 GitHub Issues</a> 联系维护者。请勿在公开 Issue 中提交个人敏感信息。</p>
+  </article>
+</body>
+</html>

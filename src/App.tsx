@@ -1,5 +1,5 @@
 import {useEffect, useMemo, useRef, useState} from 'react';
-import {ArrowDownLeft, ArrowUpRight, BookOpen, Check, ChevronDown, ChevronLeft, ChevronRight, Compass, ExternalLink, Feather, Layers3, MapPin, Menu, Search, ShieldCheck, SlidersHorizontal, X} from 'lucide-react';
+import {ArrowDownLeft, ArrowUpRight, BookOpen, Check, ChevronDown, ChevronLeft, ChevronRight, Compass, ExternalLink, Feather, Github, Layers3, MapPin, Menu, Search, ShieldCheck, SlidersHorizontal, X} from 'lucide-react';
 import {events, researchQueue} from './data/events';
 import {items, itemById} from './data/items';
 import type {Category, Item} from './data/types';
@@ -52,7 +52,7 @@ export default function App() {
     </aside>
     {menu&&<button className="menu-backdrop" aria-label="关闭导航" onClick={()=>setMenu(false)}/>}
     <main>
-      <header className="topbar"><div><button className="mobile-menu" onClick={()=>setMenu(!menu)} aria-label="展开导航"><Menu size={20}/></button><span className="crumb">凡人修仙传</span><ChevronRight size={13}/><span>{tab==='timeline'?'仙途时间线':tab==='catalog'?'物品图鉴':'考据手札'}</span></div><div className="header-right"><span className="edition"><span/>小说原著 · 人界与灵界</span><a href="https://www.qidian.com/book/107580/" target="_blank" rel="noreferrer">读原著<ArrowUpRight size={14}/></a></div></header>
+      <header className="topbar"><div><button className="mobile-menu" onClick={()=>setMenu(!menu)} aria-label="展开导航"><Menu size={20}/></button><span className="crumb">凡人修仙传</span><ChevronRight size={13}/><span>{tab==='timeline'?'仙途时间线':tab==='catalog'?'物品图鉴':'考据手札'}</span></div><div className="header-right"><a className="github-link" href="https://github.com/FrankHuy/HanlisStorageBag" target="_blank" rel="noreferrer" aria-label="在 GitHub 查看项目源码"><Github size={17}/><span>GitHub</span></a><span className="edition"><span/>小说原著 · 人界与灵界</span><a href="https://www.qidian.com/book/107580/" target="_blank" rel="noreferrer">读原著<ArrowUpRight size={14}/></a></div></header>
       <div className="page-wrap">
         <section className="hero">
           <div className="hero-landscape" aria-hidden="true"><svg viewBox="0 0 1000 300" preserveAspectRatio="none"><defs><linearGradient id="mountain" x2="0" y2="1"><stop stopColor="#607e68" stopOpacity=".5"/><stop offset="1" stopColor="#1e4139" stopOpacity=".1"/></linearGradient></defs><path d="M300 300 445 150 495 196 594 60 640 136 689 95 803 226 870 143 1000 240V300Z" fill="url(#mountain)"/><path d="m540 300 141-145 53 55 48-59 102 83 43-35 73 40v61Z" fill="#122f2b" opacity=".65"/><path d="m0 300 205-82 116 41 99-60 178 101Z" fill="#294b3d"/><path d="M0 293c211-14 418 23 640-10s265-25 360-13" fill="none" stroke="#94aa8c" opacity=".18"/></svg></div>

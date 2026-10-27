@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>韩立的储物袋 · 追番助手</title><link rel="stylesheet" href="popup.css"></head>
+<body>
+  <header class="masthead"><div class="brand"><span class="seal" aria-hidden="true">凡</span><div><h1>韩立的储物袋</h1><p>一袋乾坤 · 随集而行</p></div></div><button id="refresh" class="refresh" type="button" title="重新读取当前播放页" aria-label="刷新识别">↻</button><div class="mountains" aria-hidden="true"></div></header>
+  <main>
+    <section class="episode-panel" aria-live="polite"><div class="eyebrow"><span id="status-dot" class="dot"></span><span id="status-label">正在识别播放页</span><span id="episode-id" class="ep-id"></span></div><h2 id="episode-title">循着仙途，展开珍藏。</h2><p id="episode-subtitle">读取当前标签页的剧集信息…</p><p id="network-note" class="network-note" hidden></p></section>
+    <section id="progress-panel" class="progress-panel" hidden><div class="mode-picker"><button type="button" data-mode="before" aria-pressed="true">本集开始前</button><button type="button" data-mode="after" aria-pressed="false">看完本集后</button></div><div class="chapter-line"><span id="chapter-label"></span><button id="calibrate" type="button">校准进度</button></div><p id="mapping-label" class="small"></p><a id="mapping-source" class="source-link" target="_blank" rel="noreferrer" hidden>查看集数对应依据 ↗</a></section>
+    <form id="calibration" class="calibration" hidden><label for="chapter-input">使用本项目小说章号</label><div><input id="chapter-input" type="number" min="0" max="2446" step="1" inputmode="numeric" required placeholder="例如 746"><button class="primary" type="submit">应用</button><button id="clear-calibration" type="button">恢复自动</button></div><p class="small">手动值仅对当前单集生效。不同小说版本的章号可能不同。</p><p id="calibration-error" class="form-error" role="alert" hidden></p></form>
+    <section id="collection" hidden><div class="collection-heading"><div><h3>此时的物品记录 <span id="held-count"></span></h3><p id="recorded-through"></p></div><span class="mini-stamp" aria-hidden="true">有据<br>可循</span></div><div class="tabs" role="group" aria-label="物品视图"><button type="button" data-view="all" aria-pressed="true">全部记录</button><button type="button" data-view="bag" aria-pressed="false">袋内确认</button><button type="button" data-view="changes" aria-pressed="false">本集变化</button></div><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="寻一件法宝、灵药…" aria-label="搜索物品"></label><div id="items" class="items" aria-live="polite"></div><p class="ledger-note">已收录流水推导的最近记录，非完整库存；章节间仍有空档。按整集参考小说进度，不识别单集内的播放时间。</p></section>
+    <section id="empty-state" class="empty-state" hidden><span class="empty-seal" aria-hidden="true">袋</span><h3 id="empty-title"></h3><p id="empty-message"></p><button id="empty-calibrate" type="button" hidden>手动选择小说进度</button></section>
+  </main>
+  <footer><a id="web-link" href="https://hanli.hym.cc.cd/" target="_blank" rel="noreferrer">完整仙途档案 ↗</a><button id="help" type="button">使用与来源</button><span id="version-label">v0.1</span></footer>
+  <dialog id="detail"><button id="close-detail" class="close" type="button" aria-label="关闭详情">×</button><div id="detail-content"></div></dialog>
+  <script type="module" src="src/popup.mjs"></script>
+</body>
+</html>
